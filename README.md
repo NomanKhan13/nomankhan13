@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Nordic Nest - Rental Cabin](https://nordic-nest.netlify.app/)<br><br>🌱 I’m currently learning ReactJS<br><br>👨‍💻 All of my projects are available at [In progress](In progress)<br><br>📫 How to reach me noman.khan.primary@gmail.com<br><br>⚡ Fun fact I love making API calls.
+🔭 I’m currently working on [shopSage - Ecommerce web app](https://github.com/NomanKhan13/shopSage)<br><br>🌱 I’m currently learning ReactJS<br><br>👨‍💻 All of my projects are available at [In progress](In progress)<br><br>📫 How to reach me noman.khan.primary@gmail.com<br><br>⚡ Fun fact I love making API calls.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nomankhan13&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
